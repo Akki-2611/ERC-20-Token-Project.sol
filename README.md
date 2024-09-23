@@ -1,4 +1,4 @@
-# ERC-20-Token-Project
+# ETH + AVAX PROOF: Intermediate (Module-3)
 This contract is written in Solidity, a programming language specifically designed for building smart contracts on the Ethereum blockchain.
 ## Description
 This is a basic implementation of an ERC20-like token on the Ethereum blockchain. It leverages the standard ERC20 functionalities for minting, burning, and tracking total supply and individual balances. This demonstrates how to create and manage a token on the blockchain. You can use this contract to mint new Kitty tokens, distribute them to users, and even allow users to burn their tokens.
